@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="catNames">
+        <item>Gate</item>
+        <item>Sota</item>
+    </string-array>
+</resources>
